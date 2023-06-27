@@ -24,15 +24,16 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 
 ## Prochain évènements
 
-- **27-29 Mars 2023 :** [SFRMBM2023](https://www.sfrmbm2023.fr/), le SAIN fera sa réunion de réseau lors du congrès le 29 mars après-midi.
+
 
 ## Evènements passés
 
+- **27-29 Mars 2023 :** [SFRMBM2023](https://www.sfrmbm2023.fr/), le SAIN fera sa réunion de réseau lors du congrès le 29 mars après-midi.
 - **22 Novembre 2022:** Meeting du SAIN à l'ICM (Paris)
 
 ## Compte rendu des réunions
 
-Prochaine réunion le **29 Mars 2023 de 13h30 à 17h**
+Prochaine réunion le **27 Septembre 2023 de 10h à 12h**
 
 [Lien vers les derniers compte-rendu](https://github.com/SAIN-IMAGING/WIKI-SAIN/tree/main/CR)
 
