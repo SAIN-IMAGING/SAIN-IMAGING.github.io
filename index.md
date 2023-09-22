@@ -25,7 +25,6 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 ## Prochain évènements
 
 
-
 ## Evènements passés
 
 - **27-29 Mars 2023 :** [SFRMBM2023](https://www.sfrmbm2023.fr/), le SAIN fera sa réunion de réseau lors du congrès le 29 mars après-midi.
@@ -84,3 +83,7 @@ Présentateurs : Benjamin Lemasson (CR Inserm), Clément Brossard (doctorant) et
 Références : Brossard et al. Frontiers in Neuroinformatics 2021 ; https://github.com/nifm-gin/MP3
 
 Inscription via : https://survey.creatis.insa-lyon.fr/index.php/129184?lang=fr
+
+
+## Partage de compétences / connaissances
+- [Liste des séquences mises à disposition par des membres du réseau](https://docs.google.com/spreadsheets/d/1xqKAkidZQKa7aXht2JRGuG61W9NOLRBn0T7JhtaN7WI/edit?usp=sharing)
