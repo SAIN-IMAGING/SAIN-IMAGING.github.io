@@ -1,3 +1,7 @@
+---
+title: Laboratoires
+---
+
 # Laboratoires
 Liste des laboratoires et contacts attachées au réseau SAIN:
 
