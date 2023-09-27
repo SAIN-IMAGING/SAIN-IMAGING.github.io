@@ -19,6 +19,8 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 - [**LIIFE / PLBS**](https://ivia.uca.fr/) - Lille
 - [**PILoT**](https://www.creatis.insa-lyon.fr/site7/en/PILoT) / [**CREATIS**](https://www.creatis.insa-lyon.fr/site7/en) - Villeurbanne
 - [**PIV**](http://piv.parisdescartes.fr/) - Paris
+- [PRISM](https://www.pf-prism.org/bio-scans/) - Rennes & Angers
+
   
 [Plus d'informations](Laboratoire.md)
 
@@ -32,7 +34,7 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 
 ## Compte rendu des réunions
 
-Prochaine réunion le **27 Septembre 2023 de 10h à 12h**
+Prochaine réunion à déterminer
 
 [Lien vers les derniers compte-rendu](https://github.com/SAIN-IMAGING/WIKI-SAIN/tree/main/CR)
 
@@ -40,8 +42,7 @@ Prochaine réunion le **27 Septembre 2023 de 10h à 12h**
 
 Les SAIPAs sont constitués de webinaires qui se succèderont sur trois thèmes :
 
-- S1 : Développement de séquences avancées d’acquisition d’image IRM. Responsables : Emeline Ribot
-& Aurélien Trottier (RMSB, Bordeaux), Denis Grenier (Creatis, Lyon) + un correspondant Bruker.
+- S1 : Développement de séquences avancées d’acquisition d’image IRM. Responsables : Aurélien Trotier (RMSB, Bordeaux), Denis Grenier (Creatis, Lyon), Lucas Soustelle (CRMBM, Marseille) + un correspondant Bruker.
 
 - S2 : Prétraitement et visualisation des images. Responsables : Benjamin Lemasson (GIN, Grenoble),
 Sébastien Mériaux (NeuroSpin, Saclay), Sorina Pop (Créatis Lyon).

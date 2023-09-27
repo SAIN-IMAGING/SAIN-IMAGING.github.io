@@ -149,4 +149,16 @@ Plateforme/Laboratoire: Plateforme d'Imagerie multimodale et expérimentale prec
 * Gwennhael Autret : gwennhael.autret@inserm.fr (plateforme IRM préclinique)
 * Fiche contact du site web pour les autres modalités
 
+---
+
+## [PRISM - Rennes & Angers](https://www.pf-prism.org/bio-scans/)
+
+### Lien et réseaux : 
+* https://www.pf-prism.org/bio-scans/
+
+### Contacts
+* IRM préclinque (Angers) : florence.franconi@univ-angeers.fr
+* IRM préclinque (Rennes) : pierre-antoine.eliat@univ-rennes.fr
+* Coordinateur PRISM : francois.mariette@inrae.fr
+
 
