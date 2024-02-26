@@ -88,3 +88,12 @@ Inscription via : https://survey.creatis.insa-lyon.fr/index.php/129184?lang=fr
 
 ## Partage de compétences / connaissances
 - [Liste des séquences mises à disposition par des membres du réseau](https://docs.google.com/spreadsheets/d/1xqKAkidZQKa7aXht2JRGuG61W9NOLRBn0T7JhtaN7WI/edit?usp=sharing)
+
+## Membre du Bureau
+- Sabrina Doblas
+- Pierre-Antoine Eliat
+- Denis Grenier
+- Frank Kober
+- Benjamin Lemasson
+- Emeline Ribot
+- Aurélien Trotier
