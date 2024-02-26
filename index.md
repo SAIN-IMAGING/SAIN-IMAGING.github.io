@@ -24,6 +24,13 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
   
 [Plus d'informations](Laboratoire.md)
 
+## Comment rejoindre le SAIN
+Le SAIN communique à travers 3 outils : une mailing liste, un channel discord et une communauté Github du SAIN.
+
+Pour être ajouté à ces outils veuillez envoyer un mail en y ajoutant votre identifiant github à :
+- benjamin.lemasson[at]univ-grenoble-alpes.fr
+- aurelien.trotier[at]rmsb.u-bordeaux.fr
+
 ## Prochain évènements
 
 
