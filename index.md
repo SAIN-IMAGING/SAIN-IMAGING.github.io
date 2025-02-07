@@ -32,7 +32,7 @@ Pour être ajouté à ces outils veuillez envoyer un mail en y ajoutant votre id
 - aurelien.trotier[at]rmsb.u-bordeaux.fr
 
 ## Prochain évènements
-- **28 Novembre 2024 :** Réunion du SAIN en visio-conférence
+- **26 Mars 2025 :** Réunion du réseau durant la [SFRMBM 2025](https://sfrmbm2025.sciencesconf.org/)
 
 ## Evènements passés
 
