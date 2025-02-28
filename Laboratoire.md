@@ -48,6 +48,19 @@ Unité/Service/Plateforme : UMS 006 – CREFRE , Service Exploration Non Invasiv
 * Frank Kober (séquences) : frank.kober@univ-amu.fr
 * Lucas Soustelle (séquences) : lucas.soustelle@univ-amu.fr ; @LucasSoustelle
 * Joevin Sourdon (plateforme) : joevin.sourdon@univ-amu.fr
+  
+---
+
+## [CRMSB - Bordeaux](https://www.rmsb.u-bordeaux.fr/)
+### Lien et réseaux : 
+- https://www.rmsb.u-bordeaux.fr/
+- https://github.com/CRMSB
+- https://pibio-bordeaux.cnrs.fr
+- 
+### Contacts
+* Aurélien Trotier : aurelien.trotier@rmsb.u-bordeaux.fr; @aTrotier
+* Emeline Ribot : emeline.ribot@rmsb.u-bordeaux.fr
+* Sylvain Miraux (directeur plateforme): sylvain.miraux@rmsb.u-bordeaux.fr
 
 ---
 
