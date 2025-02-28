@@ -51,12 +51,12 @@ Unité/Service/Plateforme : UMS 006 – CREFRE , Service Exploration Non Invasiv
   
 ---
 
-## [CRMSB - Bordeaux](https://www.rmsb.u-bordeaux.fr/)
+## [CRMSB](https://www.rmsb.u-bordeaux.fr/) /  [Plateforme IBIO](https://pibio-bordeaux.cnrs.fr) - Bordeaux
 ### Lien et réseaux : 
 - https://www.rmsb.u-bordeaux.fr/
-- https://github.com/CRMSB
 - https://pibio-bordeaux.cnrs.fr
-- 
+- https://github.com/CRMSB
+
 ### Contacts
 * Aurélien Trotier : aurelien.trotier@rmsb.u-bordeaux.fr; @aTrotier
 * Emeline Ribot : emeline.ribot@rmsb.u-bordeaux.fr
