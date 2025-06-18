@@ -32,16 +32,15 @@ Pour être ajouté à ces outils veuillez envoyer un mail en y ajoutant votre id
 - aurelien.trotier[at]rmsb.u-bordeaux.fr
 
 ## Prochain évènements
-- **26 Mars 2025 :** Réunion du réseau durant la [SFRMBM 2025](https://sfrmbm2025.sciencesconf.org/)
 
 ## Evènements passés
-
+- **26 Mars 2025 :** Réunion du réseau durant la [SFRMBM 2025](https://sfrmbm2025.sciencesconf.org/)
 - **27-29 Mars 2023 :** [SFRMBM2023](https://www.sfrmbm2023.fr/), le SAIN fera sa réunion de réseau lors du congrès le 29 mars après-midi.
 - **22 Novembre 2022:** Meeting du SAIN à l'ICM (Paris)
 
 ## Compte rendu des réunions
 
-Prochaine réunion à déterminer
+- Réunion du SAIN le 19 juin 2025 à 10h
 
 [Lien vers les derniers compte-rendu](https://github.com/SAIN-IMAGING/WIKI-SAIN/tree/main/CR)
 
